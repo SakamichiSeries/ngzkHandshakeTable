@@ -11,7 +11,7 @@ const config = {
         }),
         paths: {
             // change below to your repo name
-            base: dev ? "" : "/ngzkHandshakeTable",
+            base: dev ? "" : "https://sakamichiseries.github.io//ngzkHandshakeTable",
         },
         // hydrate the <div id="svelte"> element in src/app.html
         // needed to be remove from Sept 2022.
