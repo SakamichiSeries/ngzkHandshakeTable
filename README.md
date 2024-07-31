@@ -5,7 +5,7 @@
 -[完売表の見方 (ZH-TW)](https://pttyes.com/SakaTalk/M.1648729058.A.59E) 
 
 # データ源
-- [乃木坂46公式サイト](nogizaka46.com) - メンバー情報
+- [乃木坂46公式サイト](https://nogizaka46.com) - メンバー情報
 - [乃木坂46・欅坂46握手会情報まとめ](https://ameblo.jp/seto-kasumi/) ー 完売情報
 - [ツイーターユーザー ✝︎ジ〜ン✝︎](https://twitter.com/lovefiaa) ー 完売情報
 - Scraped from [ngzkHandshakeScrape](https://github.com/universallyleo/ngzkHandshakeScrape) since 30th Single ３次受付
